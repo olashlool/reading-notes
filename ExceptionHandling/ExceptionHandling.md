@@ -3,7 +3,7 @@
 ### Exception Handling:
 > An exception is defined as an event that occurs during the execution of a program that is unexpected by the program code
 
-| # | Description |
+|  | Description |
 | ----------- | ----------- |
 | try |This block holds the code that may throw an exception. |
 | catch |This block catches the exception thrown by the try block. |
@@ -15,7 +15,7 @@
 
 ### Debugging
 >  it means removing bugs from your code. 
-> - debugger actively monitors everything that’s happening as the program runs.
+> - debugger actively monitors everything thatï¿½s happening as the program runs.
 > - can pause the app at any point to examine its state.
 
 To start Debugging  
