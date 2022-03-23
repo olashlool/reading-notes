@@ -18,4 +18,6 @@
 - [Reading 02 Unit Testing and Documentation](UnitTestingandDocumentation/UnitTestingandDocumentation.md)
 - [Reading 03 System.IO](FileManipulation_System_IO/system.md)
 - [Reading 04 Classes and Objects](Classes_Objects/Classes_Objects.md)
+- [Reading 05 Linked List](LinkedLists/LinkedLists.md)
+
 
