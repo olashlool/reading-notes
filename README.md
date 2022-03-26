@@ -1,6 +1,6 @@
 # Reading Notes
-## This note contains all of the concepts and topics that I will learn. ^_^
-![image](images/greeting.jpg)
+## This note contains all of the concepts and topics that I will learn.
+
 
 | Prep | URL |
 | ----------- | ----------- |
@@ -19,5 +19,7 @@
 - [Reading 03 System.IO](FileManipulation_System_IO/system.md)
 - [Reading 04 Classes and Objects](Classes_Objects/Classes_Objects.md)
 - [Reading 05 Linked List](LinkedLists/LinkedLists.md)
+- [Reading 05 Object Oriented Principles](ObjectOrientedPrinciples/ObjectOrientedPrinciples.md)
+
 
 
