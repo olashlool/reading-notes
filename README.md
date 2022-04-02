@@ -14,14 +14,16 @@
 # - Code 301 - Intermediate Software Development
 # - Code 401 - Advanced Software Development
 ### Week 01
-- [Reading 01 Exception Handling](ExceptionHandling/ExceptionHandling.md)
-- [Reading 02 Unit Testing and Documentation](UnitTestingandDocumentation/UnitTestingandDocumentation.md)
-- [Reading 03 System.IO](FileManipulation_System_IO/system.md)
-- [Reading 04 Classes and Objects](Classes_Objects/Classes_Objects.md)
-- [Reading 05 Linked List](LinkedLists/LinkedLists.md)
+- [Reading 01 Exception Handling](Exception-Handling/ExceptionHandling.md)
+- [Reading 02 Unit Testing and Documentation](Unit-Testing-and-Documentation/UnitTestingandDocumentation.md)
+- [Reading 03 System.IO](File-Manipulation-System-IO/system.md)
+- [Reading 04 Classes and Objects](Classes-Objects/Classes_Objects.md)
+- [Reading 05 Linked List](Linked-Lists/LinkedLists.md)
 ### Week 02
-- [Reading 06 Object Oriented Principles](ObjectOrientedPrinciples/ObjectOrientedPrinciples.md)
+- [Reading 06 Object Oriented Principles](Object-Oriented-Principles/ObjectOrientedPrinciples.md)
 - [Reading 07 Interfaces](Interfaces/Interfaces.md)
+- [Reading 08 Collections-Enums](Collections-Enums/Collections-Enums.md)
+
 
 
 
