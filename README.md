@@ -24,9 +24,4 @@
 - [Reading 07 Interfaces](Interfaces/Interfaces.md)
 - [Reading 08 Collections-Enums](Collections-Enums/Collections-Enums.md)
 - [Reading 09 LINQ](LINQ/LINQ.md)
-- 
-
-
-
-
-
+- [Reading 10 Stacks and Queues](Stacks-and-Queues/Stacks-and-Queues.md)
