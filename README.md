@@ -36,3 +36,4 @@
 
 - [Reading 11 ERDs](Introduction-to-Databases-and-ERDs/Introduction-to-Databases-and-ERDs.md)
 - [Reading 12 Entity Framework and APIs](Entity-Framework-and-APIs/Entity-Framework-and-APIs.md)
+- [Reading 13 Dependency Injection](Dependency-Injection/Dependency-Injection.md)
