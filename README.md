@@ -37,4 +37,5 @@
 - [Reading 11 ERDs](Introduction-to-Databases-and-ERDs/Introduction-to-Databases-and-ERDs.md)
 - [Reading 12 Entity Framework and APIs](Entity-Framework-and-APIs/Entity-Framework-and-APIs.md)
 - [Reading 13 Dependency Injection](Dependency-Injection/Dependency-Injection.md)
-- [Reading 14 Tree](Tree/Tree.md)
+- [Reading 14 Navigation Properties and Routing](Navigation-Properties-and-Routing/Navigation-Properties-and-Routing.md)
+- [Reading 15 Tree](Tree/Tree.md)
