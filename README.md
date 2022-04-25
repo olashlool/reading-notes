@@ -39,4 +39,8 @@
 - [Reading 13 Dependency Injection](Dependency-Injection/Dependency-Injection.md)
 - [Reading 14 Navigation Properties and Routing](Navigation-Properties-and-Routing/Navigation-Properties-and-Routing.md)
 - [Reading 15 Tree](Tree/Tree.md)
+
+### Week 04
+
 - [Reading 16 Data Transfer Objects](Data-Transfer-Objects/Data-Transfer-Objects.md)
+- [Reading 17 Tetsing, Swagger, Deployments](Tetsing-Swagger-Deployments/Tetsing-Swagger-Deployments.md)
