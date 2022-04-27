@@ -43,4 +43,5 @@
 ### Week 04
 
 - [Reading 16 Data Transfer Objects](Data-Transfer-Objects/Data-Transfer-Objects.md)
-- [Reading 17 Tetsing, Swagger, Deployments](Tetsing-Swagger-Deployments/Tetsing-Swagger-Deployments.md)
+- [Reading 17 Testing, Swagger, Deployments](Testing-Swagger-Deployments/Testing-Swagger-Deployments.md)
+- [Reading 18 Identity](Identity/Identity.md)
