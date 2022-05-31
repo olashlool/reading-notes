@@ -4,8 +4,8 @@
 
 | Prep                      | URL                                                                        |
 | ------------------------- | -------------------------------------------------------------------------- |
-| What is SQL               | [SQL](IntroductiontoSQL/IntroductionToSQL.md)                              |
-| Practice In The TerminalL | [Practice In The Terminal](PracticeInTheTerminal/PracticeInTheTerminal.md) |
+| What is SQL               | [SQL](Introductionto-SQL/IntroductionToSQL.md)                              |
+| Practice In The TerminalL | [Practice In The Terminal](PracticeIn-The-Terminal/PracticeInTheTerminal.md) |
 | What is Mindsets          | [Mindsets](Mindsets.md)                                                    |
 
 # - Code 102 - Intro to Software Development
@@ -49,5 +49,8 @@
 
 ### Week 06
 - [Reading 26 Intro to MVC](MVC/MVC.md)
+- [Reading 27 MVC Forms](MVC-Forms/MVC-Forms.md)
+
+
 
 
