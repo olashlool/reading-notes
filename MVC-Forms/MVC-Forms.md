@@ -42,14 +42,14 @@ written with Razor Syntax. Views have a .cshtml file extension.
 
 ViewData is a dictionary of objects that is derived from ViewDataDictionary class and accessible using strings as keys. 
 ViewBag is a dynamic property that takes advantage of the new dynamic features in C# 4.0. Internally ViewBag properties 
-are stored as name/value pairs in the ViewData dictionary.
+are stored as name, value pairs in the ViewData dictionary.
 
 ## 4 Ways To Create Form In ASP.NET MVC
 
-- Forms - Weakly Typed (Synchronous)
-- Forms - Strongly Typed (Synchronous)
-- Forms - Strongly Typed AJAX (Asynchronous)
-- Forms – HTML, AJAX and JQUERY
+- Forms Weakly Typed (Synchronous)
+- Forms Strongly Typed (Synchronous)
+- Forms Strongly Typed AJAX (Asynchronous)
+- Forms HTML, AJAX and JQUERY
 
 #### Forms - Weakly Typed
 Advantage
