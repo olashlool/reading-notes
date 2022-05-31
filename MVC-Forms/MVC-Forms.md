@@ -41,7 +41,7 @@ written with Razor Syntax. Views have a .cshtml file extension.
 #### Differences between ViewData and ViewBag
 
 ViewData is a dictionary of objects that is derived from ViewDataDictionary class and accessible using strings as keys. 
-ViewBag is a dynamic property that takes advantage of the new dynamic features in C# 4.0. Internally ViewBag properties 
+ViewBag is a dynamic property that takes advantage of the new dynamic features in Csharp 4.0. Internally ViewBag properties 
 are stored as name, value pairs in the ViewData dictionary.
 
 ## 4 Ways To Create Form In ASP.NET MVC
@@ -54,12 +54,12 @@ are stored as name, value pairs in the ViewData dictionary.
 #### Forms - Weakly Typed
 Advantage
 
-- It’s easy to create a form using Weakly Typed Mechanism.
+- Itâ€™s easy to create a form using Weakly Typed Mechanism.
 - Mostly used when you ned to create a form with one or two input items.
 
 Disadvantage
 
-- Because it is not strongly typed, IntelliSense doesn’t help you.
+- Because it is not strongly typed, IntelliSense doesnâ€™t help you.
 - Have a higher chance of getting exception and runtime error messages.
 - Very difficult to manage when forms have multiple input items and controls.
 - It is very clumsy when you need to add or remove input items.
