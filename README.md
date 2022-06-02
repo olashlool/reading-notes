@@ -46,6 +46,7 @@
 - [Reading 17 Testing, Swagger, Deployments](Testing-Swagger-Deployments/Testing-Swagger-Deployments.md)
 - [Reading 18 Identity](Identity/Identity.md)
 - [Reading 19 Roles, Claims and JWT Tokens](Roles-Claims-Tokens/Roles-Claims-Tokens.md)
+- [Reading 20 Hash Table](Hash-Tables/Hash-Tables.md)
 
 ### Week 06
 - [Reading 26 Intro to MVC](MVC/MVC.md)
