@@ -5,7 +5,7 @@
 for either security or some other purpose. In the case of a hashtable, it is used to determine the index of the array.
 
 - Buckets - A bucket is what is contained in each index of the array of the hashtable. Each index is a bucket that could 
-potentially contain multiple key/value pairs if a collision occurs.
+potentially contain multiple (key,value) pairs if a collision occurs.
 
 - Collisions - A collision is what happens when more than one key gets hashed to the same location of the hashtable.
 
@@ -20,7 +20,7 @@ map to a specific location in the data structure that we can look at directly to
 
 ## Creating a Hash
 - Create an array. The size of the array is important for index placement
-- Add logic that will turn the ìkeyî into a numeric number value, for example:
+- Add logic that will turn the ‚Äúkey‚Äù into a numeric number value, for example:
     - Add or multiply all the ASCII values together.
     - Multiply it by a prime number such as 599.
     - Use modulo to get the remainder of the result, when divided by the total size of the array.
@@ -28,7 +28,7 @@ map to a specific location in the data structure that we can look at directly to
     
 ## Collisions
 - A collision occurs when more than one key hashes to the same index in an array.
-- A ìperfect hashî will never have any collisions.
+- A ‚Äúperfect hash‚Äù will never have any collisions.
 
 ## Collision Resolution Techniques
 - Separate Chaining - Separate chaining is one of the most commonly used collision resolution techniques. It is usually 
