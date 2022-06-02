@@ -51,6 +51,10 @@
 ### Week 06
 - [Reading 26 Intro to MVC](MVC/MVC.md)
 - [Reading 27 MVC Forms](MVC-Forms/MVC-Forms.md)
+- [Reading 28 MVC Cookies](MVC-Cookies/MVC-Cookies.md)
+
+
+
 
 
 
