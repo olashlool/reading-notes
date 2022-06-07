@@ -46,12 +46,16 @@
 - [Reading 17 Testing, Swagger, Deployments](Testing-Swagger-Deployments/Testing-Swagger-Deployments.md)
 - [Reading 18 Identity](Identity/Identity.md)
 - [Reading 19 Roles, Claims and JWT Tokens](Roles-Claims-Tokens/Roles-Claims-Tokens.md)
-- [Reading 20 Hash Table](Hash-Tables/Hash-Tables.md)
 
 ### Week 06
 - [Reading 26 Intro to MVC](MVC/MVC.md)
 - [Reading 27 MVC Forms](MVC-Forms/MVC-Forms.md)
 - [Reading 28 MVC Cookies](MVC-Cookies/MVC-Cookies.md)
+- [Reading 29 Azure Blobs](Azure-Blobs/Azure-Blobs.md)
+- [Reading 30 Hash Table](Hash-Tables/Hash-Tables.md)
+
+
+
 
 
 
