@@ -54,7 +54,8 @@
 - [Reading 29 Azure Blobs](Azure-Blobs/Azure-Blobs.md)
 - [Reading 30 Hash Table](Hash-Tables/Hash-Tables.md)
 
-
+### Week 07
+- [Reading 31 Razor Page](Razor-Pages/Razor-Pages.md)
 
 
 
