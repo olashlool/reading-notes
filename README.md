@@ -56,7 +56,7 @@
 
 ### Week 07
 - [Reading 31 Razor Page](Razor-Pages/Razor-Pages.md)
-
+- [Reading 32 View Components](View-Components/View-Components.md)
 
 
 
