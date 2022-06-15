@@ -57,6 +57,10 @@
 ### Week 07
 - [Reading 31 Razor Page](Razor-Pages/Razor-Pages.md)
 - [Reading 32 View Components](View-Components/View-Components.md)
+- [Reading 33 Sendgrid](Sendgrid/Sendgrid.md)
+- [Reading 34 Payment Processing](Payment-Processing/Payment-Processing.md)
+
+
 
 
 
