@@ -59,6 +59,8 @@
 - [Reading 32 View Components](View-Components/View-Components.md)
 - [Reading 33 Sendgrid](Sendgrid/Sendgrid.md)
 - [Reading 34 Payment Processing](Payment-Processing/Payment-Processing.md)
+- [Reading 35 Graphs](Graphs/Graphs.md)
+
 
 
 
