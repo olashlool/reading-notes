@@ -8,7 +8,7 @@
 
 #### Common Terms
 
-* **Vertex** - A vertex, also called a ìnodeî, is a data object that can have zero or more adjacent vertices.
+* **Vertex** - A vertex, also called a ‚Äúnode‚Äù, is a data object that can have zero or more adjacent vertices.
 * **Edge** - An edge is a connection between two nodes.
 * **Neighbor** - The neighbors of a node are its adjacent nodes, i.e., are connected via an edge.
 * **Degree** - The degree of a vertex is the number of edges connected to that vertex.
@@ -39,7 +39,7 @@
 
 #### Connected
 
-* A connected graph is a graph where all of the vertices/nodes have at least one edge.
+* A connected graph is a graph where all of the vertices-nodes have at least one edge.
 
 #### Disconnected
 
@@ -73,7 +73,7 @@
 
 * An Adjacency matrix is represented through a 2-dimensional array. If there are n vertices, then we are looking at an n x n Boolean matrix
 
-* Each Row and column represents each vertex of the data structure. The elements of both the column and the row must add up to 1 if there is an edge that connects the two, or zero if there isnít a connection.
+* Each Row and column represents each vertex of the data structure. The elements of both the column and the row must add up to 1 if there is an edge that connects the two, or zero if there isn‚Äôt a connection.
 
 * A sparse graph is when there are very few connections. 
 
@@ -101,20 +101,20 @@
 
 #### Breadth First
 
-* In a breadth first traversal, you are starting at a specific vertex/node. This node must be specified when calling the BreadthFirst() method.
+* In a breadth first traversal, you are starting at a specific vertex-node. This node must be specified when calling the BreadthFirst() method.
 
 * The breadth-first traversal of a graph is like that of a tree, except that graphs can have cycles. 
 
 * When a graph has cycles and we are trying to traverse it creates the possibility of an infinite loop.
 
-* To prevent an infinite loop, we need to have a flag that specifies if we have already visited that vertices. Upon each visit, we set the ìvisitedî flag from false to true.
+* To prevent an infinite loop, we need to have a flag that specifies if we have already visited that vertices. Upon each visit, we set the ‚Äúvisited‚Äù flag from false to true.
 
 The algorithm for a breadth first traversal:
 
 * `Enqueue` the declared start node into the Queue.
 * Create a loop that will run while the node still has nodes present.
 * `Dequeue` the first node from the queue
-* If the `Dequeue`ëd node has unvisited child nodes, mark the unvisited children as visited and re-insert them back into the queue.
+* If the `Dequeue`‚Äòd node has unvisited child nodes, mark the unvisited children as visited and re-insert them back into the queue.
 
 #### Depth First
 
