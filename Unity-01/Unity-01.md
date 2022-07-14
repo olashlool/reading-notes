@@ -2,7 +2,7 @@
 
 ### What is Unity in C# ?
 
-Unity is a 2D/3D engine and framework that gives you a system for designing game or app scenes for 2D, 2.5D and 3D.
+Unity is a 2D-3D engine and framework that gives you a system for designing game or app scenes for 2D, 2.5D and 3D.
 
 ### UNITY VERSIONS
 2019 - LONG TERM SUPPORT-STABLE
@@ -41,8 +41,8 @@ In addition, you can use a Sprite Creator tool to make placeholder 2D images.
 - #### 2D physics
 Unity has a separate physics engine for handling 2D physics so as to make use of optimizations only available with 2D. 
 The components correspond to the standard 3D physics components such as Rigidbody, Box Collider and Hinge Joint, 
-but with ì2Dî appended to the name. So, sprites can be equipped with Rigidbody 2D, Box Collider 2D and Hinge Joint 2D. 
-Most 2D physics components are simply ìflattenedî versions of the 3D equivalents (eg, Box Collider 2D is a square while 
+but with ‚Äú2D‚Äù appended to the name. So, sprites can be equipped with Rigidbody 2D, Box Collider 2D and Hinge Joint 2D. 
+Most 2D physics components are simply ‚Äúflattened‚Äù versions of the 3D equivalents (eg, Box Collider 2D is a square while 
 Box Collider is a cube) but there are a few exceptions.
 
 
