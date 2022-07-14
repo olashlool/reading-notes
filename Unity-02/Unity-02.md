@@ -1,6 +1,6 @@
 # Reading 42: Unity
 
-Unity is a game development platform used to build high-quality 3D/2D games that can deployed across mobile, 
+Unity is a game development platform used to build high-quality 3D-2D games that can deployed across mobile, 
 desktop, VR/AR, consoles, or the web.
 
 ### Rigidbody component reference
@@ -17,7 +17,7 @@ desktop, VR/AR, consoles, or the web.
 - #### Details
 Rigidbodies allow your GameObjects to act under control of the physics engine. This opens the gateway to behaviors such 
 as realistic collisions and varied types of joints. Manipulating your GameObjects by adding forces to a Rigidbody creates 
-a very different feel and look than adjusting the Transform Component directly. Generally, you shouldn’t manipulate the 
+a very different feel and look than adjusting the Transform Component directly. Generally, you shouldnâ€™t manipulate the 
 Rigidbody and the Transform of the same GameObject - only one or the other.
 
 - #### Parenting
@@ -27,7 +27,7 @@ fall down due to gravity and react to collision events.
 
 - #### Scripting
 To control your Rigidbodies, you will primarily use scripts to add forces or torque. You do this by calling AddForce() 
-and AddTorque() on the object’s Rigidbody. Remember that you shouldn’t be directly altering the object’s Transform when 
+and AddTorque() on the objectâ€™s Rigidbody. Remember that you shouldnâ€™t be directly altering the objectâ€™s Transform when 
 you are using physics.       
    
 - #### Colliders
@@ -64,7 +64,7 @@ vehicles with wheels.
 
 Unity handles collision between GameObjects with colliders, which attach to GameObjects and define the shape of a 
 GameObject for the purposes of physical collisions. A collider is invisible, and does not need to be the exact same 
-shape as the GameObject’s mesh. A rough approximation of the mesh is often more efficient and indistinguishable in gameplay.
+shape as the GameObjectâ€™s mesh. A rough approximation of the mesh is often more efficient and indistinguishable in gameplay.
 
 Collision is short-duration interaction between two bodies or more than two bodies simultaneously causing change in 
 motion of bodies involved due to internal forces acted between them during this.
